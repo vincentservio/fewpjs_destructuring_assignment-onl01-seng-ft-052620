@@ -27,6 +27,7 @@ const k_muppet = {
 
 const [moo, neigh, baa, oink, cluck] = farmAnimals.split(' ')
 const [Bessie, ,Dolly, Babe, Little] = farmAnimals.split(" ")
+const [black_and_white, , black, pink] = 'cow horse sheep pig chicken'.split(" ")
 
 // Strings
 
